@@ -1,2 +1,2 @@
 # Kickstart2022RoundB
-https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74
+Problems from Google Kickstart 2022 Round B https://codingcompetitions.withgoogle.com/kickstart/round/00000000008caa74
